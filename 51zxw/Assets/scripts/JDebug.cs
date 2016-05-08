@@ -19,8 +19,7 @@ document.getElementById("UnityContent").SendMessage("MyObject", "MyFunction", "H
 
 public class JDebug : MonoBehaviour {
 	void Start(){
-		JDebug.Log (new string[]{Application.dataPath+"","dddd"});
-		Application.LoadLevel (2);
+
 	}
 	public static void Log(string[] list){
 		//string msg = string.Join(",", (string[])list.ToArray(typeof( string)));
