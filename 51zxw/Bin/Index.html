@@ -59,6 +59,11 @@
 				});
 				u.initPlugin(jQuery("#unityPlayer")[0], "Bin.unity3d");
 			});
+			
+			
+			function debug(msg){
+			    document.getElementById("unityPlayer").SendMessage("MyObject", "MyFunction", msg);
+			}
 		-->
 		</script>
 		<style type="text/css">
