@@ -10,7 +10,7 @@ public class Player : MonoBehaviour {
 	private Vector3 mTargetPos;
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButton (1)) {
+		if (Input.GetMouseButton (0)) {
 			Vector3 mScreenPos = Input.mousePosition;
 			JDebug.Log(new string[]{mScreenPos.x+"",mScreenPos.z+""});
 			Ray mRay = Camera.main.ScreenPointToRay(mScreenPos);
