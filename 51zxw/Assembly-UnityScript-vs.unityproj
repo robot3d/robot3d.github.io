@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\test001\test001.js" />
      <Compile Include="Assets\test002\test002.js" />
+     <Compile Include="Assets\test002\test002_cube.js" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>

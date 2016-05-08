@@ -15,6 +15,7 @@ public class main : MonoBehaviour {
 		
 	}
 	void OnGUI(){
+		GUI.Label(new Rect(10,20,Screen.width,30),"select:"); 
 		if (GUI.Button (new Rect (80, 20, 60, 30), "scene 1")) {
 			Application.LoadLevel(1);
 		}
