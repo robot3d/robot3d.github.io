@@ -26,7 +26,9 @@ public class main : MonoBehaviour {
 			Application.LoadLevel(2);
 		}
 	}
-	public void MyFunction(string msg){
+	public void echo(string msg){
 		JDebug.Log (new string[]{msg});
+		int number = int.Parse (msg);
+		Application.LoadLevel(number);
 	}
 }
