@@ -8,7 +8,7 @@ public class main : MonoBehaviour {
 		JDebug.Log (new string[]{Application.dataPath+"","dddd"});
 		//Application.LoadLevel (2);
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 
@@ -25,5 +25,8 @@ public class main : MonoBehaviour {
 		if (GUI.Button (new Rect (80, 100, 60, 30), "打包加载")) {
 			Application.LoadLevel(2);
 		}
+	}
+	public void MyFunction(string msg){
+		JDebug.Log (new string[]{msg});
 	}
 }

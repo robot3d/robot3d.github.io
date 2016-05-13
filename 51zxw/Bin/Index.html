@@ -61,9 +61,12 @@
 			});
 			
 			
-			function debug(msg){
+			function test(msg){
 			    document.getElementById("unityPlayer").SendMessage("MyObject", "MyFunction", msg);
 			}
+                        function echo(msg){
+	                    u.getUnity().SendMessage("Main Camera", "MyFunction", msg);
+                        }
 		-->
 		</script>
 		<style type="text/css">
