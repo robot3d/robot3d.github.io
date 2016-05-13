@@ -10,11 +10,13 @@ function Update () {
    if(Input.GetKey(KeyCode.Q)){
       transform.Rotate(-250*Time.deltaTime,0,0,Space.Self);
    }
+   /*
    if(Input.GetKey(KeyCode.E)){
          var offx = Input.GetAxis("Horizontal")*Time.deltaTime*speed;
       var offz = Input.GetAxis("Vertical")*Time.deltaTime*speed;
       transform.Translate(offx,0,offz);
    }
+   */
    
 
 
