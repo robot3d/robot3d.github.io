@@ -1,16 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\test002\GiveForce.js">
     <Files>
-      <File FileName="Assets\test002\GiveForce.js" Line="13" Column="2" />
-      <File FileName="Assets\test002\GiveForce.js" Line="6" Column="41" />
+      <File FileName="Assets\test002\GiveForce.js" Line="16" Column="2" />
+      <File FileName="Assets\test002\GiveForce.js" Line="15" Column="34" />
       <File FileName="Assets\test001\test001.js" Line="1" Column="1" />
       <File FileName="Assets\test001\Collision.js" Line="1" Column="1" />
       <File FileName="Assets\scripts\main.cs" Line="1" Column="1" />
       <File FileName="Assets\test002\Player.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\JDebug.cs" Line="1" Column="1" />
       <File FileName="Assets\test002\test002.js" Line="1" Column="1" />
-      <File FileName="Assets\test002\test002_cube.js" Line="1" Column="1" />
+      <File FileName="Assets\test002\test002_cube.js" Line="25" Column="1" />
       <File FileName="\\vmware-host\Shared Folders\文稿\New Unity Project 28\Assets\Blade_Warrior\Demo_Scene\test.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
