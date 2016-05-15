@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\return0.js" />
      <Compile Include="Assets\test001\collision.js" />
      <Compile Include="Assets\test001\test001.js" />
      <Compile Include="Assets\test002\GiveForce.js" />

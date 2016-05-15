@@ -5,6 +5,8 @@ Project("{5A066D24-D211-AE87-A0E2-0B93FE08B28E}") = "51zxw", "Assembly-CSharp-fi
 EndProject
 Project("{5A066D24-D211-AE87-A0E2-0B93FE08B28E}") = "51zxw", "Assembly-CSharp-vs.csproj", "{86E39922-EE47-6655-E68F-56FA015A55DB}"
 EndProject
+Project("{5A066D24-D211-AE87-A0E2-0B93FE08B28E}") = "51zxw", "Assembly-CSharp-Editor-vs.csproj", "{385E825F-A130-51CF-7FB5-13AC6BB88DB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{86E39922-EE47-6655-E68F-56FA015A55DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E39922-EE47-6655-E68F-56FA015A55DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E39922-EE47-6655-E68F-56FA015A55DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385E825F-A130-51CF-7FB5-13AC6BB88DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385E825F-A130-51CF-7FB5-13AC6BB88DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385E825F-A130-51CF-7FB5-13AC6BB88DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385E825F-A130-51CF-7FB5-13AC6BB88DB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																															GlobalSection(MonoDevelopProperties) = preSolution
+																																																																										GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
