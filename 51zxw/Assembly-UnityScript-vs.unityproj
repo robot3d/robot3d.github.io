@@ -53,6 +53,7 @@
      <Compile Include="Assets\test002\test002.js" />
      <Compile Include="Assets\test002\test002_cube.js" />
      <Compile Include="Assets\test003\scripts\cameraViewObject.js" />
+     <None Include="Assets\test004\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\test003\ReadMe.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">

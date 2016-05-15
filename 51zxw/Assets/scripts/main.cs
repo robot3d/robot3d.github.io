@@ -26,7 +26,7 @@ public class main : MonoBehaviour {
 			Application.LoadLevel(3);
 		}
 		if (GUI.Button (new Rect (80, 140, 60, 30), "角色换装")) {
-			Application.LoadLevel(3);
+			Application.LoadLevel(4);
 		}
 	}
 	public void echo(string msg){

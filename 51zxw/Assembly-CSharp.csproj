@@ -51,6 +51,8 @@
      <Compile Include="Assets\test002\Player.cs" />
      <Compile Include="Assets\test003\Demo_Scene\test.cs" />
      <Compile Include="Assets\test003\scripts\characterRotate.cs" />
+     <Compile Include="Assets\test004\AvatarSystem.cs" />
+     <None Include="Assets\test004\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\test003\ReadMe.txt" />
   </ItemGroup>
