@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: cce083416ffd93944822232682031c3c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Blade_male Spine1
+    100002: Blade_male Spine2
+    100004: Blade_male R Hand
+    100006: Blade_male R Forearm
+    100008: Blade_male
+    100010: Blade_male R Clavicle
+    100012: Blade_male Spine
+    100014: Blade_male Neck
+    100016: Blade_male R UpperArm
+    100018: Blade_male Pelvis
+    100020: //RootNode
+    100022: R_F_scult02
+    100024: Weapon_Point001
+    100026: M_scult01_end
+    100028: shirts
+    100030: Hair
+    100032: boots
+    100034: M_scult03
+    100036: M_scult02
+    100038: L_B_scult03
+    100040: L_B_scult02
+    100042: L_B_scult01
+    100044: L_foot_Point001
+    100046: spine_Point002
+    100048: Blade_male L Finger2Nub
+    100050: Blade_male L Finger21
+    100052: Blade_male L Finger2
+    100054: Blade_male L Finger1Nub
+    100056: Blade_male L Finger11
+    100058: Blade_male L Finger1
+    100060: Blade_male L Finger0Nub
+    100062: Blade_male L Finger01
+    100064: Blade_male L Finger0
+    100066: Blade_male L Hand
+    100068: Blade_male L Forearm
+    100070: Blade_male L UpperArm
+    100072: Blade_male L Clavicle
+    100074: Blade_male Footsteps
+    100076: R_B_scult02
+    100078: R_F_scult03
+    100080: Hair_bandf
+    100082: Shoulder
+    100084: pants
+    100086: Pevis_Point001
+    100088: Blade_male Head
+    100090: Knee_Point002
+    100092: Head_Point006
+    100094: M_scult01
+    100096: L_F_scult_end
+    100098: R_B_scult_end
+    100100: R_B_scult03
+    100102: neck_Point005
+    100104: spine01_Point003
+    100106: L_foot01_Point002
+    100108: headusOBJexport009
+    100110: Blade_male Prop1
+    100112: Blade_male R Toe0Nub
+    100114: Blade_male R Toe0
+    100116: Blade_male R Foot
+    100118: Blade_male R Calf
+    100120: Blade_male R Thigh
+    100122: Blade_male L Toe0Nub
+    100124: Blade_male L Toe0
+    100126: Blade_male L Foot
+    100128: Blade_male L Calf
+    100130: Blade_male L Thigh
+    100132: Blade_male Ponytail1Nub
+    100134: Blade_male Ponytail12
+    100136: Blade_male Ponytail11
+    100138: Blade_male Ponytail1
+    100140: Blade_male HeadNub
+    100142: Blade_male R Finger2Nub
+    100144: Blade_male R Finger21
+    100146: Blade_male R Finger2
+    100148: Blade_male R Finger1Nub
+    100150: Blade_male R Finger11
+    100152: Blade_male R Finger1
+    100154: Blade_male R Finger0Nub
+    100156: Blade_male R Finger01
+    100158: Blade_male R Finger0
+    100160: body_band
+    100162: Object006
+    100164: uper_cloth
+    100166: Object007
+    100168: Object009
+    100170: R_hand_Point002
+    100172: R_F_scult_end
+    100174: Lhand_Point001
+    100176: L_F_scult01
+    100178: Pi_Point001
+    100180: R_B_scult01
+    100182: L_B_scult_end
+    100184: Glove
+    100186: Head
+    100188: spine01_Point004
+    100190: R_F_scult01
+    100192: L_F_scult03
+    100194: L_F_scult0102
+    400000: Blade_male Spine1
+    400002: Blade_male Spine2
+    400004: Blade_male R Hand
+    400006: Blade_male R Forearm
+    400008: Blade_male
+    400010: Blade_male R Clavicle
+    400012: Blade_male Spine
+    400014: Blade_male Neck
+    400016: Blade_male R UpperArm
+    400018: Blade_male Pelvis
+    400020: //RootNode
+    400022: R_F_scult02
+    400024: Weapon_Point001
+    400026: M_scult01_end
+    400028: shirts
+    400030: Hair
+    400032: boots
+    400034: M_scult03
+    400036: M_scult02
+    400038: L_B_scult03
+    400040: L_B_scult02
+    400042: L_B_scult01
+    400044: L_foot_Point001
+    400046: spine_Point002
+    400048: Blade_male L Finger2Nub
+    400050: Blade_male L Finger21
+    400052: Blade_male L Finger2
+    400054: Blade_male L Finger1Nub
+    400056: Blade_male L Finger11
+    400058: Blade_male L Finger1
+    400060: Blade_male L Finger0Nub
+    400062: Blade_male L Finger01
+    400064: Blade_male L Finger0
+    400066: Blade_male L Hand
+    400068: Blade_male L Forearm
+    400070: Blade_male L UpperArm
+    400072: Blade_male L Clavicle
+    400074: Blade_male Footsteps
+    400076: R_B_scult02
+    400078: R_F_scult03
+    400080: Hair_bandf
+    400082: Shoulder
+    400084: pants
+    400086: Pevis_Point001
+    400088: Blade_male Head
+    400090: Knee_Point002
+    400092: Head_Point006
+    400094: M_scult01
+    400096: L_F_scult_end
+    400098: R_B_scult_end
+    400100: R_B_scult03
+    400102: neck_Point005
+    400104: spine01_Point003
+    400106: L_foot01_Point002
+    400108: headusOBJexport009
+    400110: Blade_male Prop1
+    400112: Blade_male R Toe0Nub
+    400114: Blade_male R Toe0
+    400116: Blade_male R Foot
+    400118: Blade_male R Calf
+    400120: Blade_male R Thigh
+    400122: Blade_male L Toe0Nub
+    400124: Blade_male L Toe0
+    400126: Blade_male L Foot
+    400128: Blade_male L Calf
+    400130: Blade_male L Thigh
+    400132: Blade_male Ponytail1Nub
+    400134: Blade_male Ponytail12
+    400136: Blade_male Ponytail11
+    400138: Blade_male Ponytail1
+    400140: Blade_male HeadNub
+    400142: Blade_male R Finger2Nub
+    400144: Blade_male R Finger21
+    400146: Blade_male R Finger2
+    400148: Blade_male R Finger1Nub
+    400150: Blade_male R Finger11
+    400152: Blade_male R Finger1
+    400154: Blade_male R Finger0Nub
+    400156: Blade_male R Finger01
+    400158: Blade_male R Finger0
+    400160: body_band
+    400162: Object006
+    400164: uper_cloth
+    400166: Object007
+    400168: Object009
+    400170: R_hand_Point002
+    400172: R_F_scult_end
+    400174: Lhand_Point001
+    400176: L_F_scult01
+    400178: Pi_Point001
+    400180: R_B_scult01
+    400182: L_B_scult_end
+    400184: Glove
+    400186: Head
+    400188: spine01_Point004
+    400190: R_F_scult01
+    400192: L_F_scult03
+    400194: L_F_scult0102
+    4300000: Head
+    4300002: Glove
+    4300004: boots
+    4300006: Hair
+    4300008: shirts
+    4300010: uper_cloth
+    4300012: Object006
+    4300014: body_band
+    4300016: pants
+    4300018: Shoulder
+    4300020: Hair_bandf
+    4300022: Object007
+    4300024: Object009
+    4300026: headusOBJexport009
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: shirts
+    13700002: Hair
+    13700004: boots
+    13700006: Hair_bandf
+    13700008: Shoulder
+    13700010: pants
+    13700012: headusOBJexport009
+    13700014: body_band
+    13700016: Object006
+    13700018: uper_cloth
+    13700020: Object007
+    13700022: Object009
+    13700024: Glove
+    13700026: Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
