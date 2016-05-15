@@ -29,7 +29,7 @@ public class BuildAssetbundle : Editor
 		{
 			// 选择的要保存的对象
 			Object[] selection = Selection.GetFiltered(typeof(Object), SelectionMode.DeepAssets);
-			string[] scenes = {"Assets/test005/scene1.unity"};
+			string[] scenes = {"Assets/test005/scene1.unity","Assets/test005/test005.unity"};
 			//打包
 			BuildPipeline.BuildPlayer(scenes,path,BuildTarget.StandaloneWindows,BuildOptions.BuildAdditionalStreamedScenes);
 		}

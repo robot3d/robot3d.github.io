@@ -1,18 +1,18 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\ExportAssetBundles.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\test005\LoadAB.cs">
     <Files>
-      <File FileName="Assets\scripts\main.cs" Line="18" Column="57" />
+      <File FileName="Assets\scripts\main.cs" Line="1" Column="1" />
       <File FileName="Assets\return0.js" Line="1" Column="1" />
       <File FileName="\\vmware-host\Shared Folders\文稿\New Unity Project 29\Assets\Editor\ExportAssetBundles.cs" Line="1" Column="1" />
       <File FileName="Assets\test002\jumpLevel.js" Line="1" Column="1" />
-      <File FileName="Assets\test001\test001.js" Line="15" Column="27" />
+      <File FileName="Assets\test001\test001.js" Line="1" Column="1" />
       <File FileName="Assets\test003\Demo_Scene\test.cs" Line="1" Column="1" />
       <File FileName="Assets\test003\scripts\characterRotate.cs" Line="1" Column="1" />
       <File FileName="Assets\test004\AvatarSystem.cs" Line="1" Column="1" />
       <File FileName="Assets\test005\Load.cs" Line="1" Column="1" />
-      <File FileName="Assets\test005\LoadAB.cs" Line="47" Column="2" />
-      <File FileName="Assets\Editor\ExportAssetBundles.cs" Line="32" Column="38" />
+      <File FileName="Assets\test005\LoadAB.cs" Line="9" Column="52" />
+      <File FileName="Assets\Editor\ExportAssetBundles.cs" Line="32" Column="76" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
