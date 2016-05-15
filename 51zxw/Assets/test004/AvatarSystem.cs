@@ -197,6 +197,11 @@ public class AvatarSystem : MonoBehaviour {
                 count = 1;
             }
         }
+		if(GUILayout.Button("return"))
+		{
+			Application.LoadLevel(0);
+		}
+
 
     }
 	// Update is called once per frame

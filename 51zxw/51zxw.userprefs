@@ -1,9 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\main.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\test003\scripts\characterRotate.cs">
     <Files>
+      <File FileName="Assets\test003\scripts\characterRotate.cs" Line="124" Column="4" />
       <File FileName="Assets\test002\jumpLevel.js" Line="1" Column="1" />
-      <File FileName="Assets\scripts\main.cs" Line="29" Column="27" />
+      <File FileName="Assets\scripts\main.cs" Line="1" Column="1" />
+      <File FileName="Assets\test001\test001.js" Line="1" Column="1" />
+      <File FileName="Assets\test003\Demo_Scene\test.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

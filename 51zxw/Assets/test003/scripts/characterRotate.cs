@@ -119,7 +119,9 @@ public class characterRotate : MonoBehaviour {
 		 frog.animation.wrapMode= WrapMode.Loop;
 		  	frog.animation.CrossFade("Idle");
 	  }
-		
+		if (GUI.Button (new Rect (80, 120, 60, 30), "return")) {
+			Application.LoadLevel(0);
+		}
 		
  }
 	
