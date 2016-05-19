@@ -8,6 +8,7 @@ public class LoadAB: MonoBehaviour
 	private string BundleURL = PATH+"cube.assetbundle";  
 	private string SceneURL = PATH+"scene1.unity3d";  
 	private string Bundle1URL = PATH+"sphere.assetbundle"; 
+	private string PersonURL = PATH+"person.assetbundle"; 
 	
 	void Start()
 	{
@@ -17,15 +18,7 @@ public class LoadAB: MonoBehaviour
 	}
 	IEnumerator DownloadAssetAndScene()
 	{
-		//下载assetbundle，加载Cube
-		using (WWW asset = new WWW(BundleURL))
-		{
-			yield return asset;
-			AssetBundle bundle = asset.assetBundle;
-			Instantiate(bundle.Load("Cube"));
-			bundle.Unload(false);
-			yield return new WaitForSeconds(5);
-		}
+
 		//下载assetbundle，加载Cube
 		using (WWW asset = new WWW(Bundle1URL))
 		{
@@ -41,7 +34,26 @@ public class LoadAB: MonoBehaviour
 		{
 			yield return scene;
 			AssetBundle bundle = scene.assetBundle;
-			Application.LoadLevel("scene1");
+			Application.LoadLevelAdditive("scene1");
+			yield return new WaitForSeconds(5);
+		}
+		//下载assetbundle，加载Cube
+		using (WWW asset = new WWW(BundleURL))
+		{
+			yield return asset;
+			AssetBundle bundle = asset.assetBundle;
+			Instantiate(bundle.Load("Cube"));
+			bundle.Unload(false);
+			yield return new WaitForSeconds(5);
+		}
+		//下载assetbundle，加载Person
+		using (WWW asset = new WWW(PersonURL))
+		{
+			yield return asset;
+			AssetBundle bundle = asset.assetBundle;
+			Instantiate(bundle.Load("Person"));
+			bundle.Unload(false);
+			yield return new WaitForSeconds(5);
 		}
 	}
 
